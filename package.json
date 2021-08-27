@@ -1,0 +1,21 @@
+{
+  "name": "1",
+  "version": "1.1.1",
+  "description": "0",
+  "main": "main.js",
+  "scripts": {
+    "test": "lol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jdo"
+  },
+  "keywords": [
+    "ei"
+  ],
+  "author": "djd",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.0"
+  }
+}
