@@ -36,7 +36,15 @@ client.once("ready", () => {
     if(command === 'poweroff'){
         client.commands.get('poweroff').execute(message, args);
     } 
+
+    if(command === 'kick'){
+        client.commands.get('kick').execute(message, args);
+    } 
+
+    if(command === 'ban'){
+        client.commands.get('ban').execute(message, args);
+    } 
 });
 
-client.login('ODgwMDkyNjI2MTk4NjE4MTgz.YSZQIQ.R4S1FYjmEz0_4EvEqUISWOjdFL4')
+client.login('ODgwMDkyNjI2MTk4NjE4MTgz.YSZQIQ.Ah3V5ecCZz6KS7vewxDu-LXRp_s')
 
