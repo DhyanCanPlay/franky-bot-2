@@ -4,7 +4,7 @@ const fetch = require("node-fetch");
 const client = new Discord.Client()
 
 const config = {
-    "token": "ODgwMDkyNjI2MTk4NjE4MTgz.YSZQIQ.p9NvJjYqPgIW8oGws3XQx8U-EvU",
+    "token": "token_bot",
     "prefix": "/"
 }
 
